@@ -1,4 +1,4 @@
-# XpenseWise — Simple CLI Expense Tracker
+# XpenseWise — CLI Expense Tracker
 
 XpenseWise is a lightweight, command‑line expense tracker written in Python. It lets you quickly log expenses, categorizes them, and shows a monthly budget summary — all in a single CSV file.
 
@@ -105,7 +105,7 @@ name,category,amount
 
 ---
 
-## 🧭 Roadmap (nice-to-have)
+## 🧭 Roadmap 
 
 - Validate numeric input and category selection more robustly
 - Monthly rollovers / multi-file support (one CSV per month)
